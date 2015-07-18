@@ -1,0 +1,16 @@
+@Article
+{
+	popov:2007:GPURT,
+	author       = {Stefan Popov and Johannes G\"unther and Hans-Peter Seidel and Philipp Slusallek},
+	title        = {{Stackless KD-Tree Traversal for High Performance GPU Ray Tracing}},
+	journal      = "Computer Graphics Forum",
+	year         = 2007,
+	volume       = 26,
+	number       = 3,
+	month        = sep,
+	note         = "(Proceedings of Eurographics), to appear",
+	location     = "Prague, Czech Republic",
+	publisher    = "The Eurographics Association and Blackwell Publishing Ltd",
+	pages        = {415-424},
+	url          = {http://dx.doi.org/10.1111/j.1467-8659.2007.01064.x}
+}
