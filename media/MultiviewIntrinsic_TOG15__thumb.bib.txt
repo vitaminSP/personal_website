@@ -1,0 +1,12 @@
+@article{
+	duchene:hal-01164841,
+	TITLE = {{Multi-View Intrinsic Images of Outdoors Scenes with an Application to Relighting}},
+	AUTHOR = {Duch{\^e}ne, Sylvain and Riant, Clement and Chaurasia, Gaurav and Lopez-Moreno, Jorge and Laffont, Pierre-Yves and Popov, Stefan and Bousseau, Adrien and Drettakis, George},
+	JOURNAL = {{ACM Transactions on Graphics}},
+	PUBLISHER = {{Association for Computing Machinery (ACM)}},
+	PAGES = {16},
+	YEAR = {2015},
+	KEYWORDS = {Shadow Detection ; Intrinsic Images ; Reflectance ; Shading ;  I48 [Image Processing and Computer Vision]: Scene Analysis  General Terms: Algorithms  Additional Key Words and Phrases: Relighting ; Categories and Subject Descriptors: I33 [Computer Graphics]: Picture/Image Generation},
+	HAL_ID = {hal-01164841},
+	HAL_VERSION = {v1},
+}
