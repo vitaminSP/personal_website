@@ -1,0 +1,9 @@
+@Article{
+	paper:popov15:PCBPT,
+	author       = "Popov, Stefan and Ramamoorthi, Ravi and Durand, Fr\'edo and Drettakis, George",
+	title        = "Probabilistic Connections for Bidirectional Path Tracing",
+	journal      = "Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering)",
+	number       = "4",
+	volume       = "34",
+	year         = "2015",
+}
