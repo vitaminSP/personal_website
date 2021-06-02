@@ -1,0 +1,6 @@
+@article{OpenImages,
+  author = {Alina Kuznetsova and Hassan Rom and Neil Alldrin and Jasper Uijlings and Ivan Krasin and Jordi Pont-Tuset and Shahab Kamali and Stefan Popov and Matteo Malloci and Alexander Kolesnikov and Tom Duerig and Vittorio Ferrari},
+  title = {The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale},
+  year = {2020},
+  journal = {IJCV}
+}

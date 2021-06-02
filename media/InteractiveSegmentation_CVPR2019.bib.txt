@@ -1,0 +1,8 @@
+@InProceedings {
+  Benenson:2019:CVPR,
+  author = {Benenson, Rodrigo and Popov, Stefan and Ferrari, Vittorio},
+  title = {Large-Scale Interactive Object Segmentation With Human Annotators},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2019}
+}

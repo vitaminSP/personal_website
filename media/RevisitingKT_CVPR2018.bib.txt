@@ -1,0 +1,8 @@
+@InProceedings{
+  Uijlings:2018:CVPR,
+  author = {Uijlings, Jasper and Popov, Stefan and Ferrari, Vittorio},
+  title = {Revisiting Knowledge Transfer for Training Object Class Detectors},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2018}
+}

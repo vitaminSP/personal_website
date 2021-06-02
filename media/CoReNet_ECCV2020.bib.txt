@@ -1,0 +1,8 @@
+@inproceedings{
+  Popov:2020:ECCV,
+  title = {CoReNet: Coherent 3D scene reconstruction from a single RGB image},
+  author  = {Stefan Georgiev Popov and Pablo Bauszat and Vittorio Ferrari},
+  year  = {2020},
+  URL = {https://arxiv.org/abs/2004.12989},
+  booktitle = {The European Conference on Computer Vision (ECCV)}
+}
