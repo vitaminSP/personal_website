@@ -278,4 +278,5 @@ a [class^="icon-"], a [class*=" icon-"] { display: inline; }
 .icon-linkedin:before { content: "\f0e1"; }
 .icon-file-text:before { content: "\f15c"; }
 .icon-download-alt:before { content: "\f019"; }
+.icon-globe:before { content: "\f0ac"; }
 /*********************************************************/

@@ -1,0 +1,7 @@
+@InProceedings{rozumnyi2023layouts,
+ Author = {Denys Rozumnyi and Stefan Popov and Kevis-Kokitsi Maninis and Matthias Niessner and Vittorio Ferrari}, 
+ Title = {Estimating Generic 3D Room Structures from 2D Annotations}, 
+ BookTitle = {Conference on Neural Information Processing Systems (NeurIPS)},  
+ Year = {2023}
+ }
+  

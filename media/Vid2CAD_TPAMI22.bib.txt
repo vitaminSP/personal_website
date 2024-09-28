@@ -1,0 +1,6 @@
+@Article{maninis2022vid2cad,
+  Author = {Kevis-Kokitsi Maninis and Stefan Popov and Matthias Nießner and Vittorio Ferrari},
+  Title = {Vid2CAD: CAD Model Alignment using Multi-View Constraints from Videos},
+  Journal = {IEEE Transactions on Pattern Analysis and Machine Inttelligence},
+  Year = {2022}
+}

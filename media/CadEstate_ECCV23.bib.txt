@@ -1,0 +1,6 @@
+@InProceedings{maninis2023cadestate,
+  Author = {Kevis-Kokitsi Maninis and Stefan Popov and Matthias Niessner and Vittorio Ferrari}, 
+  Title = {CAD-Estate: Large-scale CAD Model Annotation in RGB Videos}, 
+  BookTitle = {International Conference on Computer Vision (ICCV)},  
+  Year = {2023}
+}

@@ -1,0 +1,6 @@
+@InProceedings{jampani2023navi,
+ Author = {Jampani, Varun and Maninis, Kevis-Kokitsi and Engelhardt, Andreas and Karpur, Arjun and Truong, Karen and Sargent, Kyle and Popov, Stefan and Araujo, Andre and Martin-Brualla, Ricardo and Patel, Kaushal and Vlasic, Daniel and Ferrari, Vittorio and Makadia, Ameesh and Liu, Ce and Li, Yuanzhen and Zhou, Howard}, 
+ Title = {NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations}, 
+ BookTitle = {Conference on Neural Information Processing Systems (NeurIPS)},  
+ Year = {2023}
+}

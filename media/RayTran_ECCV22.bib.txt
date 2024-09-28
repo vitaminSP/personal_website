@@ -1,0 +1,6 @@
+@InProceedings{tyszkiewicz2022raytran,
+  Author = {Michał J. Tyszkiewicz and Kevis-Kokitsi Maninis and Stefan Popov and Vittorio Ferrari}, 
+  Title = {RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers}, 
+  BookTitle = {European Conference on Computer Vision (ECCV)},  
+  Year = {2022}
+}
